@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672494304 source:c:\users\dhafindra\documents\kuliah\matkul\semester 3\sturktur data\tugas pendahuluan\tp_mod15_1301213115_if-45-04\tp_mod15\main.cpp
+	"Tree.h"
+
+1672494350 c:\users\dhafindra\documents\kuliah\matkul\semester 3\sturktur data\tugas pendahuluan\tp_mod15_1301213115_if-45-04\tp_mod15\tree.h
+	<iostream>
+
+1672494322 source:c:\users\dhafindra\documents\kuliah\matkul\semester 3\sturktur data\tugas pendahuluan\tp_mod15_1301213115_if-45-04\tp_mod15\tree.cpp
+	"Tree.h"
+
